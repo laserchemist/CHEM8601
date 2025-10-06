@@ -1,1 +1,3 @@
-# CHEM8106
+# CHEM8601 Analytical Separations
+
+Analysis Code
